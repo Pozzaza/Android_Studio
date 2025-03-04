@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bands">
+        <item>Orchid</item>
+        <item>Pg. 99</item>
+        <item>Loma Prieta</item>
+        <item>Saetia</item>
+        <item>Jeromes Dream</item>
+        <item>Funeral Diner</item>
+        <item>City of Caterpillar</item>
+        <item>Portraits of Past</item>
+        <item>Neil Perry</item>
+        <item>Envy</item>
+    </string-array>
+</resources>
